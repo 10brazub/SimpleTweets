@@ -2,26 +2,18 @@ package com.codepath.apps.restclienttemplate;
 
 import android.content.Context;
 import android.os.Build;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.bumptech.glide.Glide;
 import com.codepath.apps.restclienttemplate.models.Tweet;
-import com.google.android.material.tabs.TabLayout;
-
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.List;
-import java.util.Locale;
+
 
 public class TweetsAdapter extends RecyclerView.Adapter<TweetsAdapter.ViewHolder>  {
 

@@ -3,8 +3,13 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
+        android:id="@+id/miLogout"
+        android:icon="@drawable/_623196_arrow_left_logout_ui_logout_icon_icon__2_"
+        android:title="LogoutBtn"
+        app:showAsAction="always" />
+    <item
         android:id="@+id/miCompose"
-        android:icon="@android:drawable/ic_menu_edit"
+        android:icon="@drawable/_11654_compose_icon"
         android:title="compose"
         app:showAsAction="always" />
 </menu>
