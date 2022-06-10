@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-!(GIF demo)[ezgif.com-gif-maker.gif]
+![GIF demo](ezgif.com-gif-maker.gif)
 
 ## Notes
 
